@@ -16,8 +16,12 @@ payload = {
 }
 headers = {
     "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json"
+    "Content-Type": "application/json"                           
 }
 
 response = requests.post(url, json=payload, headers=headers)
-print(response.json())
+response_json = response.json()
+
+# Extract and print the 'content' part
+content = response_json["choices"][0]["message"]["content"]
+print(content)
