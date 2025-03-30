@@ -1,5 +1,11 @@
 # Mood Market 📈 Emotionally Intelligent Investing
 
+## Watch the Demo
+
+[![Demo Video](http://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Description 
 
 Mood Market is a revolutionary platform that personalizes your investment journey by understanding your emotional state. We believe that your feelings can significantly influence your investment decisions, and we're here to help you navigate the stock market with greater awareness and confidence.
