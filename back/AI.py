@@ -107,17 +107,17 @@ def getAllCompanies():
     })
 
     
-    placeholder = "Based on your request for low-risk stock suggestions, here are 5 options to consider:\n\n1. Johnson & Johnson (JNJ): This diversified healthcare company has a strong track record of stability and consistent dividend growth. With an overall risk factor of 6, it offers a balanced mix of pharmaceutical, medical device, and consumer health products[3].\n\n2. Procter & Gamble (PG): A consumer staples giant, P&G has an overall risk factor of 2, making it one of the safest stocks on the list. Its diverse portfolio of household brands provides steady cash flow and reliable dividends[3].\n\n3. Coca-Cola (KO): With an overall risk factor of 3, Coca-Cola is a defensive stock known for its strong brand and global presence. It offers a steady dividend and has shown resilience during economic downturns[3].\n\n4. Walmart (WMT): This retail behemoth has an overall risk factor of 2, indicating its stability. Walmart's business model tends to perform well even during economic uncertainties, making it a relatively safe investment[3].\n\n5. Verizon (VZ): With an overall risk factor of 2, Verizon is a telecommunications company that offers a high dividend yield and stable cash flows. Its essential services nature adds to its low-risk profile[3].\n\nThese stocks are generally considered low-risk due to their stable business models, strong market positions, and history of consistent performance. However, remember that all investments carry some level of risk, and it's important to diversify your portfolio and consult with a financial advisor before making investment decisions."
+    # placeholder = "Based on your request for low-risk stock suggestions, here are 5 options to consider:\n\n1. Johnson & Johnson (JNJ): This diversified healthcare company has a strong track record of stability and consistent dividend growth. With an overall risk factor of 6, it offers a balanced mix of pharmaceutical, medical device, and consumer health products[3].\n\n2. Procter & Gamble (PG): A consumer staples giant, P&G has an overall risk factor of 2, making it one of the safest stocks on the list. Its diverse portfolio of household brands provides steady cash flow and reliable dividends[3].\n\n3. Coca-Cola (KO): With an overall risk factor of 3, Coca-Cola is a defensive stock known for its strong brand and global presence. It offers a steady dividend and has shown resilience during economic downturns[3].\n\n4. Walmart (WMT): This retail behemoth has an overall risk factor of 2, indicating its stability. Walmart's business model tends to perform well even during economic uncertainties, making it a relatively safe investment[3].\n\n5. Verizon (VZ): With an overall risk factor of 2, Verizon is a telecommunications company that offers a high dividend yield and stable cash flows. Its essential services nature adds to its low-risk profile[3].\n\nThese stocks are generally considered low-risk due to their stable business models, strong market positions, and history of consistent performance. However, remember that all investments carry some level of risk, and it's important to diversify your portfolio and consult with a financial advisor before making investment decisions."
     
 
     # Parse response
-    # print(response.json())
-    # content = response_json["choices"][0]["message"]["content"]
-    # response_json = response.json()  # Extract only the message
-    # # Add assistant response to memory
-    # memory.append({"role": "assistant", "content": content})
+    print(response.json())
+    content = response_json["choices"][0]["message"]["content"]
+    response_json = response.json()  # Extract only the message
+    # Add assistant response to memory
+    memory.append({"role": "assistant", "content": content})
 
-    return jsonify(placeholder.split("\n\n"))
+    # return jsonify(placeholder.split("\n\n"))
 
     # Print and return
     return jsonify(response.json())
