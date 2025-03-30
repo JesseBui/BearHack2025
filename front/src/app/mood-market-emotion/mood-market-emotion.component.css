@@ -1,0 +1,17 @@
+/* YourComponent.css */
+
+.radio-button-container {
+    display: flex;
+    align-items: center; /* Vertically align image and radio button */
+    margin-bottom: 5px; /* Add spacing between radio button sets */
+  }
+  
+  .emotion-image {
+    max-width: 30px; /* Adjust image size as needed */
+    margin-right: 5px; /* Add spacing between image and radio button */
+  }
+  
+  .radio-button-emotion {
+    display: flex;
+    align-items: center; /* Vertically align radio button and text */
+  }
