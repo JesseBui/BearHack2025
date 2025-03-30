@@ -2,9 +2,7 @@
 
 ## Watch the Demo
 
-[![Demo Video](http://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[Click here to watch the full demo on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+https://youtu.be/wopVsgElTEI
 
 ## Description 
 
