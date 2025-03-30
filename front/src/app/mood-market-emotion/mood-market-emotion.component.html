@@ -1,5 +1,5 @@
 <form [formGroup]="moodMarketForm" (ngSubmit)="moodMarketSubmit()" [ngStyle]="{margin: '2px', border: '5px solid blue'}">
-    <mat-grid-list cols="3" rowHeight="1.2:1">
+    <mat-grid-list cols="2" rowHeight="1.8:1">
         <!--First Column-->
         <mat-grid-tile>
             <mat-form-field>
@@ -20,10 +20,5 @@
               }
             </mat-radio-group><br>
           </mat-grid-tile>
-          
-        <!--Third Column-->
-        <mat-grid-tile>
-            <button mat-raised-button color="primary" type="submit">Click to Submit Request</button>
-        </mat-grid-tile>
       </mat-grid-list>
 </form>
