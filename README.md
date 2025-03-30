@@ -1,3 +1,9 @@
+# Mood Market 📈 Emotionally Intelligent Investing
+
+## Description 
+
+Mood Market is a revolutionary platform that personalizes your investment journey by understanding your emotional state. We believe that your feelings can significantly influence your investment decisions, and we're here to help you navigate the stock market with greater awareness and confidence.
+
 # Bearhacks2025MoodMarket
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
