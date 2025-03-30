@@ -98,6 +98,14 @@ print(asset_list)
 #   'Accepts': 'application/json',
 #   'X-CMC_PRO_API_KEY': CMC_API_KEY
 # }
+cmc_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest'
+parameters = {
+  'convert':'USD'
+}
+headers = {
+  'Accepts': 'application/json',
+  'X-CMC_PRO_API_KEY': CMC_API_KEY
+}
 
 # session = Session()
 # session.headers.update(headers)
