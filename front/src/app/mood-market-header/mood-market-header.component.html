@@ -1,0 +1,22 @@
+<h1 [ngStyle]="{textAlign: 'center'}">Mood Market</h1>
+
+<mat-toolbar [ngStyle]="{textAlign: 'center'}">
+    <a class="spacer" routerLink = "/moodMarketIntroduction" routerLinkActive="activebutton">
+      <button mat-fab extended [ngStyle]="{backgroundColor: 'blue', color: 'white'}">
+        <mat-icon>travel_explore</mat-icon>
+        Step 1: Introduction
+      </button>
+    </a>
+    <a class="spacer" routerLink ='/moodMarketEmotion' routerLinkActive="activebutton">
+      <button mat-fab extended [ngStyle]="{backgroundColor: 'blue', color: 'white'}">
+        <mat-icon>public</mat-icon>
+        Step 2: Emotion
+      </button>
+    </a>
+    <a class="spacer" routerLink ='/moodMarketStock' routerLinkActive="activebutton">
+      <button mat-fab extended [ngStyle]="{backgroundColor: 'blue', color: 'white'}">
+        <mat-icon>rocket_launch</mat-icon>
+        Step  3: Stocks
+      </button>
+    </a>
+</mat-toolbar>

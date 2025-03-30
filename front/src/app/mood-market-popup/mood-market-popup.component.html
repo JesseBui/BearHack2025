@@ -1,0 +1,13 @@
+<h3 mat-dialog-title [ngStyle]="{backgroundColor: '#6A5ACD', color: 'white', textAlign: 'center'}">
+    Mood Market <br>
+    Results for {{outputMoodMarket.moodMarketDate | date: 'medium'}}
+</h3>
+<h4 mat-dialog-content [ngStyle]="{textAlign: 'center', color: '#6A5ACD', fontWeight: 'bold'}">
+    {{outputMoodMarket.moodMarketName | uppercase}} requested that they are {{outputMoodMarket.moodMarketEmotion | uppercase}}.<br>
+    Based on the emotion AI has generated this Stock Information:<br>
+    blah blah blah
+</h4>
+
+<div mat-dialog-actions>
+  <button mat-raised-button (click) = "close()">Close</button>
+</div>
