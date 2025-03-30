@@ -1,0 +1,29 @@
+<form [formGroup]="moodMarketForm" (ngSubmit)="moodMarketSubmit()" [ngStyle]="{margin: '2px', border: '5px solid blue'}">
+    <mat-grid-list cols="3" rowHeight="1.2:1">
+        <!--First Column-->
+        <mat-grid-tile>
+            <mat-form-field>
+                <label [ngStyle]="{color: 'blue', fontWeight: 'bold'}">Name:</label>
+                <input matInput formControlName="moodMarketName">
+            </mat-form-field>
+        </mat-grid-tile>
+
+        <!--Second Column-->
+        <mat-grid-tile>
+            <mat-radio-group id="moodMarketEmotion" formControlName="moodMarketEmotion">
+              <label [ngStyle]="{color: 'blue', fontWeight: 'bold'}">Current Emotion:</label><br>
+              @for (x of moodMarketEmotion; track x) {
+                <div class="radio-button-container">
+                  <img [src]="getImageUrl(x)" [alt]="x" class="emotion-image">
+                  <mat-radio-button [value]="x" class="radio-button-emotion">{{x}}</mat-radio-button>
+                </div>
+              }
+            </mat-radio-group><br>
+          </mat-grid-tile>
+          
+        <!--Third Column-->
+        <mat-grid-tile>
+            <button mat-raised-button color="primary" type="submit">Click to Submit Request</button>
+        </mat-grid-tile>
+      </mat-grid-list>
+</form>
