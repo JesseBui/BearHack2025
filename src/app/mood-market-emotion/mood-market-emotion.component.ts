@@ -22,7 +22,7 @@ class MoodMarketData {
 })
 export class MoodMarketEmotionComponent implements OnInit {
 
-  moodMarketEmotion = ["Happy", "Sad", "Conscious", "Random", "Hopeful"];
+  moodMarketEmotion = ["Happy", "Sad", "Cautious", "Random", "Hopeful"];
 
   // ... (getImageUrl method remains the same)
 
@@ -53,8 +53,8 @@ export class MoodMarketEmotionComponent implements OnInit {
         return '../images/happy.png'; // Replace with actual path
       case 'Sad':
         return '../images/sad.png'; // Replace with actual path
-      case 'Conscious':
-        return '../images/conscious.png'; // Replace with actual path
+      case 'Cautious':
+        return '../images/cautious.png'; // Replace with actual path
       case 'Random':
         return '../images/random.png'; // Replace with actual path
       case 'Hopeful':
