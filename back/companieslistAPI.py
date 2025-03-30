@@ -52,10 +52,6 @@ if not asset_list:
                         "52-Week Range": f"{get_stock_value(stock_info, 'fiftyTwoWeekLow', 'N/A')} - {get_stock_value(stock_info, 'fiftyTwoWeekHigh', 'N/A')}",
                         "50-Day Average": get_stock_value(stock_info, "fiftyDayAverage", "N/A"),
                         "200-Day Average": get_stock_value(stock_info, "twoHundredDayAverage", "N/A"),
-                        "Beta": get_stock_value(stock_info, "beta", "N/A"),
-                        "Dividend Yield": f"{get_stock_value(stock_info, 'dividendYield', 0) * 100:.2f}%" if stock_info.get("dividendYield") else "N/A",
-                        "Dividend Rate": f"${get_stock_value(stock_info, 'dividendRate', 'N/A')}",
-                        "Payout Ratio": f"{get_stock_value(stock_info, 'payoutRatio', 0) * 100:.2f}%" if stock_info.get("payoutRatio") else "N/A",
                     },
                     "Analyst Ratings & Stock Performance": {
                         "Target Price Range": f"{get_stock_value(stock_info, 'targetLowPrice', 'N/A')} - {get_stock_value(stock_info, 'targetHighPrice', 'N/A')}",
@@ -64,11 +60,7 @@ if not asset_list:
                         "Analyst Recommendation": f"{get_stock_value(stock_info, 'recommendationMean', 'N/A')} (<1 = Strong Buy, >5 = Strong Sell)",
                     },
                     "Risk Factors": {
-                        "Audit Risk": get_stock_value(stock_info, "auditRisk", "N/A"),  
-                        "Board Risk": get_stock_value(stock_info, "boardRisk", "N/A"),
-                        "Compensation Risk": get_stock_value(stock_info, "compensationRisk", "N/A"),
-                        "Shareholder Rights Risk": get_stock_value(stock_info, "shareHolderRightsRisk", "N/A"),
-                        "Overall Risk": get_stock_value(stock_info, "overallRisk", "N/A"),
+                        "Overall Risk": get_stock_value(stock_info, "overallRisk", "N/A")
                     }
                 }
 
@@ -120,26 +112,26 @@ headers = {
 
 # #print(asset_list, '\n\n\n', crypto_list)
 
-app = Flask(__name__)
+# app = Flask(__name__)
 
-@app.route("/getAllCompanies", methods=["GET"])
-def getAllCompanies():
-    return jsonify(asset_list)
+# @app.route("/getAllCompanies", methods=["GET"])
+# def getAllCompanies():
+#     return jsonify(asset_list)
 
-@app.route("/getCompany/<symbol>", methods=["GET"])
-def getCompany(symbol):
-    company_data = asset_list.get(symbol.upper())  # Ensure symbol case consistency
-    if company_data:
-        return jsonify(company_data)
-    else:
-        return jsonify({"error": f"Company with symbol {symbol} not found."}), 404
+# @app.route("/getCompany/<symbol>", methods=["GET"])
+# def getCompany(symbol):
+#     company_data = asset_list.get(symbol.upper())  # Ensure symbol case consistency
+#     if company_data:
+#         return jsonify(company_data)
+#     else:
+#         return jsonify({"error": f"Company with symbol {symbol} not found."}), 404
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
 
-@app.get("/getTopCrypto")
-def getTopCrypto():
-    return jsonify(crypto_list)
+# @app.get("/getTopCrypto")
+# def getTopCrypto():
+#     return jsonify(crypto_list)
 
-if __name__ == "__main__":
-    app.run()
+# if __name__ == "__main__":
+#     app.run()

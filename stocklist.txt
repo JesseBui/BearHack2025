@@ -1,0 +1,1702 @@
+{
+    "LIN": {
+        "Stock Market Data": {
+            "Current Price": 459.11,
+            "52-Week Range": "410.69 - 487.49",
+            "50-Day Average": 455.606,
+            "200-Day Average": 453.1447
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "381.0 - 540.0",
+            "Mean Target Price": 496.05,
+            "Median Target Price": 505.5,
+            "Analyst Recommendation": "1.93103 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "MMM": {
+        "Stock Market Data": {
+            "Current Price": 144.84,
+            "52-Week Range": "88.23 - 156.35",
+            "50-Day Average": 149.4126,
+            "200-Day Average": 131.09814
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "96.0 - 184.0",
+            "Mean Target Price": 155.12944,
+            "Median Target Price": 165.0,
+            "Analyst Recommendation": "2.15789 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 9
+        }
+    },
+    "AXP": {
+        "Stock Market Data": {
+            "Current Price": 265.48,
+            "52-Week Range": "214.51 - 326.27",
+            "50-Day Average": 295.0908,
+            "200-Day Average": 273.77914
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "231.57 - 371.0",
+            "Mean Target Price": 312.87375,
+            "Median Target Price": 313.2,
+            "Analyst Recommendation": "2.57143 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "AAPL": {
+        "Stock Market Data": {
+            "Current Price": 217.9,
+            "52-Week Range": "164.08 - 260.1",
+            "50-Day Average": 230.3722,
+            "200-Day Average": 229.0202
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "197.0 - 325.0",
+            "Mean Target Price": 252.59052,
+            "Median Target Price": 255.0,
+            "Analyst Recommendation": "2.02222 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "BA": {
+        "Stock Market Data": {
+            "Current Price": 173.31,
+            "52-Week Range": "137.03 - 196.95",
+            "50-Day Average": 173.6412,
+            "200-Day Average": 167.81015
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "113.0 - 250.0",
+            "Mean Target Price": 196.23923,
+            "Median Target Price": 200.0,
+            "Analyst Recommendation": "2.03448 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "CAT": {
+        "Stock Market Data": {
+            "Current Price": 329.69,
+            "52-Week Range": "307.05 - 418.5",
+            "50-Day Average": 355.4144,
+            "200-Day Average": 361.0895
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "250.0 - 490.0",
+            "Mean Target Price": 391.12564,
+            "Median Target Price": 390.0,
+            "Analyst Recommendation": "2.44444 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "CVX": {
+        "Stock Market Data": {
+            "Current Price": 166.09,
+            "52-Week Range": "135.37 - 168.96",
+            "50-Day Average": 157.199,
+            "200-Day Average": 152.8434
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "156.0 - 203.0",
+            "Mean Target Price": 176.88913,
+            "Median Target Price": 176.0,
+            "Analyst Recommendation": "1.96 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "CSCO": {
+        "Stock Market Data": {
+            "Current Price": 60.86,
+            "52-Week Range": "44.5 - 66.5",
+            "50-Day Average": 62.0104,
+            "200-Day Average": 55.0239
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "54.0 - 80.0",
+            "Mean Target Price": 70.36652,
+            "Median Target Price": 72.0,
+            "Analyst Recommendation": "2.15385 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "KO": {
+        "Stock Market Data": {
+            "Current Price": 70.37,
+            "52-Week Range": "57.93 - 73.53",
+            "50-Day Average": 67.6396,
+            "200-Day Average": 66.58615
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "59.6 - 85.0",
+            "Mean Target Price": 74.6768,
+            "Median Target Price": 77.0,
+            "Analyst Recommendation": "1.69231 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "XOM": {
+        "Stock Market Data": {
+            "Current Price": 117.73,
+            "52-Week Range": "103.67 - 126.34",
+            "50-Day Average": 110.8188,
+            "200-Day Average": 114.2412
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "105.0 - 146.0",
+            "Mean Target Price": 129.09923,
+            "Median Target Price": 129.0,
+            "Analyst Recommendation": "2.14286 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 7
+        }
+    },
+    "GS": {
+        "Stock Market Data": {
+            "Current Price": 543.12,
+            "52-Week Range": "387.12 - 672.19",
+            "50-Day Average": 607.1834,
+            "200-Day Average": 542.1741
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "490.0 - 760.0",
+            "Mean Target Price": 635.6,
+            "Median Target Price": 634.0,
+            "Analyst Recommendation": "2.30435 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "HD": {
+        "Stock Market Data": {
+            "Current Price": 358.15,
+            "52-Week Range": "323.77 - 439.37",
+            "50-Day Average": 390.008,
+            "200-Day Average": 385.0527
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "297.34 - 484.0",
+            "Mean Target Price": 431.49567,
+            "Median Target Price": 440.0,
+            "Analyst Recommendation": "1.82927 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "IBM": {
+        "Stock Market Data": {
+            "Current Price": 244.0,
+            "52-Week Range": "162.62 - 266.45",
+            "50-Day Average": 248.8074,
+            "200-Day Average": 217.281
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "160.0 - 320.0",
+            "Mean Target Price": 254.51212,
+            "Median Target Price": 270.0,
+            "Analyst Recommendation": "2.42857 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "INTC": {
+        "Stock Market Data": {
+            "Current Price": 22.71,
+            "52-Week Range": "18.51 - 45.41",
+            "50-Day Average": 22.2484,
+            "200-Day Average": 23.6523
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "17.7 - 31.0",
+            "Mean Target Price": 22.89853,
+            "Median Target Price": 23.0,
+            "Analyst Recommendation": "3.0 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 7
+        }
+    },
+    "JNJ": {
+        "Stock Market Data": {
+            "Current Price": 163.71,
+            "52-Week Range": "140.68 - 169.99",
+            "50-Day Average": 158.51,
+            "200-Day Average": 156.21495
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "150.0 - 190.0",
+            "Mean Target Price": 169.06525,
+            "Median Target Price": 166.37,
+            "Analyst Recommendation": "2.27273 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "JPM": {
+        "Stock Market Data": {
+            "Current Price": 242.85,
+            "52-Week Range": "179.2 - 280.25",
+            "50-Day Average": 257.1376,
+            "200-Day Average": 229.97156
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "180.51 - 330.0",
+            "Mean Target Price": 265.40524,
+            "Median Target Price": 273.0,
+            "Analyst Recommendation": "2.13043 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "MCD": {
+        "Stock Market Data": {
+            "Current Price": 307.09,
+            "52-Week Range": "243.53 - 326.32",
+            "50-Day Average": 300.9656,
+            "200-Day Average": 288.3994
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "280.0 - 360.0",
+            "Mean Target Price": 328.3616,
+            "Median Target Price": 335.0,
+            "Analyst Recommendation": "1.92105 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "NKE": {
+        "Stock Market Data": {
+            "Current Price": 63.29,
+            "52-Week Range": "63.14 - 98.04",
+            "50-Day Average": 74.1092,
+            "200-Day Average": 78.07515
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "40.0 - 120.0",
+            "Mean Target Price": 81.38676,
+            "Median Target Price": 77.96,
+            "Analyst Recommendation": "2.23077 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "MRK": {
+        "Stock Market Data": {
+            "Current Price": 89.23,
+            "52-Week Range": "81.04 - 134.63",
+            "50-Day Average": 92.2668,
+            "200-Day Average": 107.0077
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "95.0 - 146.0",
+            "Mean Target Price": 112.06682,
+            "Median Target Price": 111.5,
+            "Analyst Recommendation": "1.96 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "MSFT": {
+        "Stock Market Data": {
+            "Current Price": 378.8,
+            "52-Week Range": "376.91 - 468.35",
+            "50-Day Average": 405.844,
+            "200-Day Average": 422.5207
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "420.0 - 650.0",
+            "Mean Target Price": 506.242,
+            "Median Target Price": 500.0,
+            "Analyst Recommendation": "1.38596 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "PFE": {
+        "Stock Market Data": {
+            "Current Price": 25.21,
+            "52-Week Range": "24.48 - 31.54",
+            "50-Day Average": 26.0894,
+            "200-Day Average": 27.5397
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "25.0 - 42.0",
+            "Mean Target Price": 31.25857,
+            "Median Target Price": 30.0,
+            "Analyst Recommendation": "2.43478 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "PG": {
+        "Stock Market Data": {
+            "Current Price": 168.03,
+            "52-Week Range": "153.52 - 180.43",
+            "50-Day Average": 168.542,
+            "200-Day Average": 169.0797
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "143.0 - 209.0",
+            "Mean Target Price": 178.70078,
+            "Median Target Price": 181.5,
+            "Analyst Recommendation": "1.96429 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "UNH": {
+        "Stock Market Data": {
+            "Current Price": 516.04,
+            "52-Week Range": "436.38 - 630.73",
+            "50-Day Average": 508.589,
+            "200-Day Average": 545.43134
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "518.76 - 700.0",
+            "Mean Target Price": 628.11194,
+            "Median Target Price": 628.0,
+            "Analyst Recommendation": "1.25 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "VZ": {
+        "Stock Market Data": {
+            "Current Price": 44.93,
+            "52-Week Range": "37.59 - 47.36",
+            "50-Day Average": 42.0422,
+            "200-Day Average": 41.74165
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "42.0 - 55.0",
+            "Mean Target Price": 47.48913,
+            "Median Target Price": 47.0,
+            "Analyst Recommendation": "2.38462 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "V": {
+        "Stock Market Data": {
+            "Current Price": 342.85,
+            "52-Week Range": "252.7 - 366.54",
+            "50-Day Average": 342.9154,
+            "200-Day Average": 300.18094
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "289.0 - 410.0",
+            "Mean Target Price": 376.58945,
+            "Median Target Price": 388.0,
+            "Analyst Recommendation": "1.68421 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "WMT": {
+        "Stock Market Data": {
+            "Current Price": 85.15,
+            "52-Week Range": "58.56 - 105.3",
+            "50-Day Average": 94.3866,
+            "200-Day Average": 83.36315
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "63.0 - 120.0",
+            "Mean Target Price": 108.2335,
+            "Median Target Price": 110.0,
+            "Analyst Recommendation": "1.55814 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "WBA": {
+        "Stock Market Data": {
+            "Current Price": 11.19,
+            "52-Week Range": "8.08 - 21.74",
+            "50-Day Average": 10.8936,
+            "200-Day Average": 10.4501
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "10.0 - 19.21",
+            "Mean Target Price": 12.2925,
+            "Median Target Price": 11.45,
+            "Analyst Recommendation": "2.86667 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "DIS": {
+        "Stock Market Data": {
+            "Current Price": 98.07,
+            "52-Week Range": "83.91 - 123.69",
+            "50-Day Average": 107.2428,
+            "200-Day Average": 101.3878
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "79.0 - 147.0",
+            "Mean Target Price": 126.00385,
+            "Median Target Price": 130.0,
+            "Analyst Recommendation": "1.76667 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "ADBE": {
+        "Stock Market Data": {
+            "Current Price": 385.71,
+            "52-Week Range": "374.5 - 587.75",
+            "50-Day Average": 431.147,
+            "200-Day Average": 494.11264
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "407.0 - 650.0",
+            "Mean Target Price": 523.224,
+            "Median Target Price": 525.0,
+            "Analyst Recommendation": "1.925 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "GOOGL": {
+        "Stock Market Data": {
+            "Current Price": 154.33,
+            "52-Week Range": "147.22 - 207.05",
+            "50-Day Average": 179.8192,
+            "200-Day Average": 174.94756
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "184.0 - 240.0",
+            "Mean Target Price": 218.81125,
+            "Median Target Price": 220.0,
+            "Analyst Recommendation": "1.59375 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "AMZN": {
+        "Stock Market Data": {
+            "Current Price": 192.72,
+            "52-Week Range": "151.61 - 242.52",
+            "50-Day Average": 216.7022,
+            "200-Day Average": 200.2043
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "203.0 - 306.0",
+            "Mean Target Price": 265.23767,
+            "Median Target Price": 270.0,
+            "Analyst Recommendation": "1.36765 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 9
+        }
+    },
+    "AMGN": {
+        "Stock Market Data": {
+            "Current Price": 306.95,
+            "52-Week Range": "253.3 - 346.85",
+            "50-Day Average": 300.6476,
+            "200-Day Average": 306.66086
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "185.0 - 389.0",
+            "Mean Target Price": 315.94885,
+            "Median Target Price": 324.0,
+            "Analyst Recommendation": "2.41935 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "CHTR": {
+        "Stock Market Data": {
+            "Current Price": 369.02,
+            "52-Week Range": "236.08 - 415.27",
+            "50-Day Average": 359.4324,
+            "200-Day Average": 347.2945
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "273.0 - 525.0",
+            "Mean Target Price": 403.14044,
+            "Median Target Price": 392.0,
+            "Analyst Recommendation": "2.53846 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "CMCSA": {
+        "Stock Market Data": {
+            "Current Price": 36.62,
+            "52-Week Range": "32.5 - 45.31",
+            "50-Day Average": 35.9056,
+            "200-Day Average": 39.02605
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "35.0 - 55.0",
+            "Mean Target Price": 42.89519,
+            "Median Target Price": 43.0,
+            "Analyst Recommendation": "2.10345 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "COST": {
+        "Stock Market Data": {
+            "Current Price": 929.66,
+            "52-Week Range": "697.27 - 1078.23",
+            "50-Day Average": 985.0446,
+            "200-Day Average": 917.9584
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "610.0 - 1205.0",
+            "Mean Target Price": 1063.1584,
+            "Median Target Price": 1095.0,
+            "Analyst Recommendation": "1.97436 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "GILD": {
+        "Stock Market Data": {
+            "Current Price": 111.79,
+            "52-Week Range": "62.07 - 119.96",
+            "50-Day Average": 105.2306,
+            "200-Day Average": 87.98245
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "82.0 - 140.0",
+            "Mean Target Price": 111.7088,
+            "Median Target Price": 110.0,
+            "Analyst Recommendation": "1.86667 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "KHC": {
+        "Stock Market Data": {
+            "Current Price": 30.24,
+            "52-Week Range": "27.25 - 38.96",
+            "50-Day Average": 29.9922,
+            "200-Day Average": 32.44995
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "26.0 - 56.91",
+            "Mean Target Price": 32.63227,
+            "Median Target Price": 31.0,
+            "Analyst Recommendation": "2.86957 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "MDLZ": {
+        "Stock Market Data": {
+            "Current Price": 67.72,
+            "52-Week Range": "53.95 - 76.06",
+            "50-Day Average": 62.1962,
+            "200-Day Average": 66.1329
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "59.0 - 81.0",
+            "Mean Target Price": 68.50462,
+            "Median Target Price": 69.5,
+            "Analyst Recommendation": "1.88889 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "NFLX": {
+        "Stock Market Data": {
+            "Current Price": 933.85,
+            "52-Week Range": "542.01 - 1064.5",
+            "50-Day Average": 967.399,
+            "200-Day Average": 801.6645
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "700.0 - 1494.0",
+            "Mean Target Price": 1073.9572,
+            "Median Target Price": 1100.0,
+            "Analyst Recommendation": "1.82979 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 9
+        }
+    },
+    "NVDA": {
+        "Stock Market Data": {
+            "Current Price": 109.67,
+            "52-Week Range": "75.606 - 153.13",
+            "50-Day Average": 124.932,
+            "200-Day Average": 127.63515
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "125.0 - 220.0",
+            "Mean Target Price": 171.01328,
+            "Median Target Price": 175.0,
+            "Analyst Recommendation": "1.33871 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 8
+        }
+    },
+    "PYPL": {
+        "Stock Market Data": {
+            "Current Price": 65.15,
+            "52-Week Range": "56.97 - 93.66",
+            "50-Day Average": 76.4989,
+            "200-Day Average": 75.26717
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "70.0 - 125.0",
+            "Mean Target Price": 94.28971,
+            "Median Target Price": 94.8,
+            "Analyst Recommendation": "2.15909 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 8
+        }
+    },
+    "QCOM": {
+        "Stock Market Data": {
+            "Current Price": 152.72,
+            "52-Week Range": "149.43 - 230.63",
+            "50-Day Average": 163.9508,
+            "200-Day Average": 170.67026
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "160.0 - 250.0",
+            "Mean Target Price": 198.497,
+            "Median Target Price": 190.0,
+            "Analyst Recommendation": "2.18919 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "SBUX": {
+        "Stock Market Data": {
+            "Current Price": 97.73,
+            "52-Week Range": "71.55 - 117.46",
+            "50-Day Average": 105.3828,
+            "200-Day Average": 94.1121
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "76.0 - 125.0",
+            "Mean Target Price": 107.50767,
+            "Median Target Price": 112.5,
+            "Analyst Recommendation": "2.37143 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 8
+        }
+    },
+    "TMUS": {
+        "Stock Market Data": {
+            "Current Price": 264.93,
+            "52-Week Range": "159.14 - 276.49",
+            "50-Day Average": 251.821,
+            "200-Day Average": 218.13385
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "184.95 - 300.0",
+            "Mean Target Price": 258.19705,
+            "Median Target Price": 268.0,
+            "Analyst Recommendation": "2.14286 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "TSLA": {
+        "Stock Market Data": {
+            "Current Price": 263.55,
+            "52-Week Range": "138.8 - 488.54",
+            "50-Day Average": 322.4788,
+            "200-Day Average": 286.65094
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "120.0 - 550.0",
+            "Mean Target Price": 330.37732,
+            "Median Target Price": 325.0,
+            "Analyst Recommendation": "2.61702 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "TXN": {
+        "Stock Market Data": {
+            "Current Price": 176.33,
+            "52-Week Range": "159.11 - 220.39",
+            "50-Day Average": 186.5364,
+            "200-Day Average": 196.20724
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "130.0 - 284.0",
+            "Mean Target Price": 204.70068,
+            "Median Target Price": 200.0,
+            "Analyst Recommendation": "2.48571 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 8
+        }
+    },
+    "ABT": {
+        "Stock Market Data": {
+            "Current Price": 130.82,
+            "52-Week Range": "99.71 - 141.23",
+            "50-Day Average": 129.7176,
+            "200-Day Average": 116.40235
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "111.34 - 160.0",
+            "Mean Target Price": 136.68083,
+            "Median Target Price": 135.0,
+            "Analyst Recommendation": "1.77778 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "ABBV": {
+        "Stock Market Data": {
+            "Current Price": 205.29,
+            "52-Week Range": "153.58 - 218.66",
+            "50-Day Average": 197.1422,
+            "200-Day Average": 186.86826
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "173.0 - 250.0",
+            "Mean Target Price": 211.7324,
+            "Median Target Price": 214.0,
+            "Analyst Recommendation": "1.96154 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 7
+        }
+    },
+    "ACN": {
+        "Stock Market Data": {
+            "Current Price": 304.33,
+            "52-Week Range": "278.69 - 398.35",
+            "50-Day Average": 354.2414,
+            "200-Day Average": 344.1113
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "290.0 - 415.0",
+            "Mean Target Price": 363.66418,
+            "Median Target Price": 368.5,
+            "Analyst Recommendation": "1.76923 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "MO": {
+        "Stock Market Data": {
+            "Current Price": 58.15,
+            "52-Week Range": "40.65 - 59.67",
+            "50-Day Average": 55.0208,
+            "200-Day Average": 52.26575
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "42.0 - 73.0",
+            "Mean Target Price": 56.58333,
+            "Median Target Price": 59.0,
+            "Analyst Recommendation": "2.53846 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "AIG": {
+        "Stock Market Data": {
+            "Current Price": 83.62,
+            "52-Week Range": "69.0 - 85.11",
+            "50-Day Average": 78.5378,
+            "200-Day Average": 75.6338
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "76.0 - 96.0",
+            "Mean Target Price": 84.62333,
+            "Median Target Price": 84.5,
+            "Analyst Recommendation": "2.21053 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "T": {
+        "Stock Market Data": {
+            "Current Price": 28.18,
+            "52-Week Range": "15.94 - 28.51",
+            "50-Day Average": 25.6222,
+            "200-Day Average": 22.15675
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "15.49 - 32.0",
+            "Mean Target Price": 27.40731,
+            "Median Target Price": 28.0,
+            "Analyst Recommendation": "1.89286 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "BAC": {
+        "Stock Market Data": {
+            "Current Price": 41.25,
+            "52-Week Range": "34.15 - 48.08",
+            "50-Day Average": 44.4418,
+            "200-Day Average": 42.6292
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "43.0 - 59.0",
+            "Mean Target Price": 52.2619,
+            "Median Target Price": 53.0,
+            "Analyst Recommendation": "1.59091 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "BK": {
+        "Stock Market Data": {
+            "Current Price": 82.71,
+            "52-Week Range": "52.64 - 90.34",
+            "50-Day Average": 85.2122,
+            "200-Day Average": 74.39535
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "80.0 - 104.0",
+            "Mean Target Price": 93.26667,
+            "Median Target Price": 94.0,
+            "Analyst Recommendation": "2.0625 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "BRK-B": {
+        "Stock Market Data": {
+            "Current Price": 526.31,
+            "52-Week Range": "395.66 - 537.63",
+            "50-Day Average": 491.6152,
+            "200-Day Average": 458.99945
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "467.0 - 557.0",
+            "Mean Target Price": 502.0,
+            "Median Target Price": 482.0,
+            "Analyst Recommendation": "2.25 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "BLK": {
+        "Stock Market Data": {
+            "Current Price": 946.7,
+            "52-Week Range": "745.55 - 1084.22",
+            "50-Day Average": 979.0956,
+            "200-Day Average": 941.775
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "1045.0 - 1275.0",
+            "Mean Target Price": 1159.2617,
+            "Median Target Price": 1175.0,
+            "Analyst Recommendation": "1.72222 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 9
+        }
+    },
+    "BKNG": {
+        "Stock Market Data": {
+            "Current Price": 4634.24,
+            "52-Week Range": "3180.0 - 5337.24",
+            "50-Day Average": 4775.534,
+            "200-Day Average": 4432.4272
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "4411.11 - 6500.0",
+            "Mean Target Price": 5636.976,
+            "Median Target Price": 5725.0,
+            "Analyst Recommendation": "1.8 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "BMY": {
+        "Stock Market Data": {
+            "Current Price": 60.02,
+            "52-Week Range": "39.35 - 63.33",
+            "50-Day Average": 58.5904,
+            "200-Day Average": 52.7869
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "37.0 - 70.0",
+            "Mean Target Price": 61.24381,
+            "Median Target Price": 62.0,
+            "Analyst Recommendation": "2.72 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "COF": {
+        "Stock Market Data": {
+            "Current Price": 173.53,
+            "52-Week Range": "128.23 - 210.67",
+            "50-Day Average": 190.3764,
+            "200-Day Average": 165.59755
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "176.0 - 251.0",
+            "Mean Target Price": 211.722,
+            "Median Target Price": 208.0,
+            "Analyst Recommendation": "1.81818 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "C": {
+        "Stock Market Data": {
+            "Current Price": 70.33,
+            "52-Week Range": "53.51 - 84.74",
+            "50-Day Average": 76.9504,
+            "200-Day Average": 67.82295
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "70.0 - 116.0",
+            "Mean Target Price": 90.5,
+            "Median Target Price": 87.0,
+            "Analyst Recommendation": "1.8 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "CL": {
+        "Stock Market Data": {
+            "Current Price": 92.82,
+            "52-Week Range": "85.32 - 109.3",
+            "50-Day Average": 89.7348,
+            "200-Day Average": 95.81965
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "83.0 - 110.0",
+            "Mean Target Price": 97.77182,
+            "Median Target Price": 99.5,
+            "Analyst Recommendation": "2.26087 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "COP": {
+        "Stock Market Data": {
+            "Current Price": 102.37,
+            "52-Week Range": "86.81 - 135.18",
+            "50-Day Average": 99.1506,
+            "200-Day Average": 105.8138
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "114.0 - 165.0",
+            "Mean Target Price": 128.55586,
+            "Median Target Price": 126.0,
+            "Analyst Recommendation": "1.63333 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "CVS": {
+        "Stock Market Data": {
+            "Current Price": 67.14,
+            "52-Week Range": "43.56 - 79.98",
+            "50-Day Average": 61.8394,
+            "200-Day Average": 58.16485
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "48.01 - 86.0",
+            "Mean Target Price": 72.2576,
+            "Median Target Price": 73.0,
+            "Analyst Recommendation": "1.89286 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "DHR": {
+        "Stock Market Data": {
+            "Current Price": 205.85,
+            "52-Week Range": "196.8 - 281.7",
+            "50-Day Average": 215.2798,
+            "200-Day Average": 244.38525
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "240.0 - 310.0",
+            "Mean Target Price": 266.22708,
+            "Median Target Price": 265.0,
+            "Analyst Recommendation": "1.51852 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 7
+        }
+    },
+    "DUK": {
+        "Stock Market Data": {
+            "Current Price": 119.41,
+            "52-Week Range": "92.75 - 121.47",
+            "50-Day Average": 115.1002,
+            "200-Day Average": 112.00725
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "111.0 - 135.0",
+            "Mean Target Price": 123.76875,
+            "Median Target Price": 122.5,
+            "Analyst Recommendation": "2.2 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "LLY": {
+        "Stock Market Data": {
+            "Current Price": 822.51,
+            "52-Week Range": "711.4 - 972.53",
+            "50-Day Average": 842.4972,
+            "200-Day Average": 855.91345
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "620.0 - 1190.0",
+            "Mean Target Price": 1010.47156,
+            "Median Target Price": 1010.0,
+            "Analyst Recommendation": "1.64286 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 7
+        }
+    },
+    "EMR": {
+        "Stock Market Data": {
+            "Current Price": 108.64,
+            "52-Week Range": "96.62 - 134.85",
+            "50-Day Average": 120.7664,
+            "200-Day Average": 115.889
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "105.0 - 168.0",
+            "Mean Target Price": 140.54787,
+            "Median Target Price": 142.0,
+            "Analyst Recommendation": "1.75862 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 8
+        }
+    },
+    "EXC": {
+        "Stock Market Data": {
+            "Current Price": 44.71,
+            "52-Week Range": "34.01 - 45.2",
+            "50-Day Average": 42.4382,
+            "200-Day Average": 39.0353
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "41.0 - 48.0",
+            "Mean Target Price": 44.47125,
+            "Median Target Price": 45.0,
+            "Analyst Recommendation": "2.36842 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "FDX": {
+        "Stock Market Data": {
+            "Current Price": 241.71,
+            "52-Week Range": "217.22 - 313.84",
+            "50-Day Average": 256.7702,
+            "200-Day Average": 275.84164
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "200.0 - 354.0",
+            "Mean Target Price": 288.4719,
+            "Median Target Price": 291.0,
+            "Analyst Recommendation": "1.93939 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 7
+        }
+    },
+    "F": {
+        "Stock Market Data": {
+            "Current Price": 9.72,
+            "52-Week Range": "9.06 - 14.85",
+            "50-Day Average": 9.7594,
+            "200-Day Average": 10.7363
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "8.0 - 17.0",
+            "Mean Target Price": 10.4472,
+            "Median Target Price": 10.0,
+            "Analyst Recommendation": "2.96154 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "GE": {
+        "Stock Market Data": {
+            "Current Price": 199.88,
+            "52-Week Range": "133.99 - 214.21",
+            "50-Day Average": 200.9248,
+            "200-Day Average": 179.7966
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "191.34 - 261.0",
+            "Mean Target Price": 227.46333,
+            "Median Target Price": 230.0,
+            "Analyst Recommendation": "1.5 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "GM": {
+        "Stock Market Data": {
+            "Current Price": 46.68,
+            "52-Week Range": "38.96 - 61.24",
+            "50-Day Average": 48.9546,
+            "200-Day Average": 49.20965
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "37.0 - 105.0",
+            "Mean Target Price": 61.40111,
+            "Median Target Price": 58.0,
+            "Analyst Recommendation": "2.10345 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "HON": {
+        "Stock Market Data": {
+            "Current Price": 210.34,
+            "52-Week Range": "189.75 - 242.77",
+            "50-Day Average": 213.6056,
+            "200-Day Average": 213.8104
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "196.12 - 300.0",
+            "Mean Target Price": 237.24374,
+            "Median Target Price": 233.5,
+            "Analyst Recommendation": "2.15385 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "LOW": {
+        "Stock Market Data": {
+            "Current Price": 228.42,
+            "52-Week Range": "211.8 - 287.01",
+            "50-Day Average": 245.7342,
+            "200-Day Average": 250.15535
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "217.0 - 309.0",
+            "Mean Target Price": 279.80646,
+            "Median Target Price": 286.0,
+            "Analyst Recommendation": "2.05405 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "MA": {
+        "Stock Market Data": {
+            "Current Price": 540.61,
+            "52-Week Range": "428.86 - 582.23",
+            "50-Day Average": 549.8162,
+            "200-Day Average": 504.23315
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "466.1 - 690.0",
+            "Mean Target Price": 618.2639,
+            "Median Target Price": 626.5,
+            "Analyst Recommendation": "1.66667 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "MDT": {
+        "Stock Market Data": {
+            "Current Price": 87.63,
+            "52-Week Range": "75.96 - 96.25",
+            "50-Day Average": 90.8494,
+            "200-Day Average": 86.25665
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "85.0 - 112.46",
+            "Mean Target Price": 97.05407,
+            "Median Target Price": 95.0,
+            "Analyst Recommendation": "2.25 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 6
+        }
+    },
+    "MET": {
+        "Stock Market Data": {
+            "Current Price": 79.23,
+            "52-Week Range": "67.3 - 89.05",
+            "50-Day Average": 83.3558,
+            "200-Day Average": 79.6425
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "73.0 - 110.0",
+            "Mean Target Price": 95.85714,
+            "Median Target Price": 96.0,
+            "Analyst Recommendation": "1.875 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 3
+        }
+    },
+    "MS": {
+        "Stock Market Data": {
+            "Current Price": 115.33,
+            "52-Week Range": "85.01 - 142.03",
+            "50-Day Average": 129.5546,
+            "200-Day Average": 115.9826
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "101.0 - 156.0",
+            "Mean Target Price": 136.05556,
+            "Median Target Price": 140.0,
+            "Analyst Recommendation": "2.59091 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 9
+        }
+    },
+    "NEE": {
+        "Stock Market Data": {
+            "Current Price": 70.45,
+            "52-Week Range": "61.31 - 86.1",
+            "50-Day Average": 70.7324,
+            "200-Day Average": 75.37225
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "52.0 - 103.0",
+            "Mean Target Price": 84.50952,
+            "Median Target Price": 84.0,
+            "Analyst Recommendation": "2.13043 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "ORCL": {
+        "Stock Market Data": {
+            "Current Price": 140.87,
+            "52-Week Range": "112.78 - 198.31",
+            "50-Day Average": 163.649,
+            "200-Day Average": 160.39485
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "135.0 - 246.0",
+            "Mean Target Price": 186.15625,
+            "Median Target Price": 187.0,
+            "Analyst Recommendation": "1.86486 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "PM": {
+        "Stock Market Data": {
+            "Current Price": 155.16,
+            "52-Week Range": "87.82 - 159.51",
+            "50-Day Average": 145.2198,
+            "200-Day Average": 125.8699
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "102.0 - 175.0",
+            "Mean Target Price": 149.78867,
+            "Median Target Price": 154.02,
+            "Analyst Recommendation": "N/A (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "RTN": {
+        "Stock Market Data": {
+            "Current Price": "N/A",
+            "52-Week Range": "N/A - N/A",
+            "50-Day Average": "N/A",
+            "200-Day Average": "N/A"
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "N/A - N/A",
+            "Mean Target Price": "N/A",
+            "Median Target Price": "N/A",
+            "Analyst Recommendation": "N/A (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": "N/A"
+        }
+    },
+    "SPG": {
+        "Stock Market Data": {
+            "Current Price": 164.28,
+            "52-Week Range": "139.25 - 190.14",
+            "50-Day Average": 175.1894,
+            "200-Day Average": 168.1292
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "168.0 - 220.0",
+            "Mean Target Price": 190.88889,
+            "Median Target Price": 191.5,
+            "Analyst Recommendation": "2.26316 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "SO": {
+        "Stock Market Data": {
+            "Current Price": 91.13,
+            "52-Week Range": "67.53 - 94.45",
+            "50-Day Average": 87.3004,
+            "200-Day Average": 86.01155
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "72.0 - 104.0",
+            "Mean Target Price": 91.69353,
+            "Median Target Price": 93.0,
+            "Analyst Recommendation": "2.65 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "TGT": {
+        "Stock Market Data": {
+            "Current Price": 103.65,
+            "52-Week Range": "101.76 - 181.86",
+            "50-Day Average": 123.0628,
+            "200-Day Average": 139.9639
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "100.0 - 160.0",
+            "Mean Target Price": 136.0,
+            "Median Target Price": 139.5,
+            "Analyst Recommendation": "2.32432 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "UNP": {
+        "Stock Market Data": {
+            "Current Price": 232.15,
+            "52-Week Range": "218.55 - 258.07",
+            "50-Day Average": 242.8328,
+            "200-Day Average": 238.97105
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "200.0 - 295.0",
+            "Mean Target Price": 262.24896,
+            "Median Target Price": 265.0,
+            "Analyst Recommendation": "2.09677 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "UPS": {
+        "Stock Market Data": {
+            "Current Price": 109.66,
+            "52-Week Range": "109.4 - 154.29",
+            "50-Day Average": 118.7832,
+            "200-Day Average": 128.3087
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "82.0 - 179.0",
+            "Mean Target Price": 132.00697,
+            "Median Target Price": 133.0,
+            "Analyst Recommendation": "2.06061 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "USB": {
+        "Stock Market Data": {
+            "Current Price": 42.26,
+            "52-Week Range": "37.81 - 53.98",
+            "50-Day Average": 45.753,
+            "200-Day Average": 45.97175
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "45.0 - 65.0",
+            "Mean Target Price": 55.15,
+            "Median Target Price": 55.5,
+            "Analyst Recommendation": "2.13043 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "WFC": {
+        "Stock Market Data": {
+            "Current Price": 70.69,
+            "52-Week Range": "50.15 - 81.5",
+            "50-Day Average": 75.7724,
+            "200-Day Average": 65.87755
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "65.0 - 92.0",
+            "Mean Target Price": 83.09524,
+            "Median Target Price": 85.0,
+            "Analyst Recommendation": "2.0 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "AMD": {
+        "Stock Market Data": {
+            "Current Price": 103.22,
+            "52-Week Range": "94.73 - 187.28",
+            "50-Day Average": 109.4944,
+            "200-Day Average": 137.88115
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "90.0 - 225.0",
+            "Mean Target Price": 146.53227,
+            "Median Target Price": 140.0,
+            "Analyst Recommendation": "1.88 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "AMT": {
+        "Stock Market Data": {
+            "Current Price": 215.56,
+            "52-Week Range": "170.46 - 243.56",
+            "50-Day Average": 198.8598,
+            "200-Day Average": 207.656
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "204.0 - 250.0",
+            "Mean Target Price": 233.2,
+            "Median Target Price": 235.0,
+            "Analyst Recommendation": "1.69565 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 1
+        }
+    },
+    "AVGO": {
+        "Stock Market Data": {
+            "Current Price": 169.12,
+            "52-Week Range": "119.756 - 251.88",
+            "50-Day Average": 209.4024,
+            "200-Day Average": 183.82036
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "200.0 - 300.0",
+            "Mean Target Price": 250.42111,
+            "Median Target Price": 250.0,
+            "Analyst Recommendation": "1.425 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 9
+        }
+    },
+    "CRM": {
+        "Stock Market Data": {
+            "Current Price": 269.97,
+            "52-Week Range": "212.0 - 369.0",
+            "50-Day Average": 309.3156,
+            "200-Day Average": 291.6661
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "243.0 - 442.0",
+            "Mean Target Price": 375.36447,
+            "Median Target Price": 388.0,
+            "Analyst Recommendation": "1.74 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "SCHW": {
+        "Stock Market Data": {
+            "Current Price": 77.81,
+            "52-Week Range": "61.01 - 84.5",
+            "50-Day Average": 79.4268,
+            "200-Day Average": 72.89095
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "62.0 - 108.0",
+            "Mean Target Price": 90.05,
+            "Median Target Price": 92.0,
+            "Analyst Recommendation": "2.0 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    },
+    "TMO": {
+        "Stock Market Data": {
+            "Current Price": 500.16,
+            "52-Week Range": "493.3 - 627.88",
+            "50-Day Average": 542.1928,
+            "200-Day Average": 562.0513
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "560.77 - 767.0",
+            "Mean Target Price": 659.0782,
+            "Median Target Price": 665.0,
+            "Analyst Recommendation": "1.64516 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "DOW": {
+        "Stock Market Data": {
+            "Current Price": 34.36,
+            "52-Week Range": "34.125 - 60.69",
+            "50-Day Average": 38.27,
+            "200-Day Average": 46.7149
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "38.0 - 65.0",
+            "Mean Target Price": 45.0,
+            "Median Target Price": 44.0,
+            "Analyst Recommendation": "2.45 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "GD": {
+        "Stock Market Data": {
+            "Current Price": 269.08,
+            "52-Week Range": "239.87 - 316.9",
+            "50-Day Average": 259.293,
+            "200-Day Average": 281.945
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "231.0 - 335.0",
+            "Mean Target Price": 288.638,
+            "Median Target Price": 284.5,
+            "Analyst Recommendation": "2.28 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 2
+        }
+    },
+    "LMT": {
+        "Stock Market Data": {
+            "Current Price": 441.49,
+            "52-Week Range": "419.7 - 618.95",
+            "50-Day Average": 457.798,
+            "200-Day Average": 512.2687
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "418.0 - 670.0",
+            "Mean Target Price": 523.76044,
+            "Median Target Price": 522.5,
+            "Analyst Recommendation": "2.41667 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 4
+        }
+    },
+    "PEP": {
+        "Stock Market Data": {
+            "Current Price": 149.27,
+            "52-Week Range": "141.51 - 183.41",
+            "50-Day Average": 149.3094,
+            "200-Day Average": 162.08846
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "124.0 - 185.0",
+            "Mean Target Price": 163.14136,
+            "Median Target Price": 166.0,
+            "Analyst Recommendation": "2.6087 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 5
+        }
+    },
+    "META": {
+        "Stock Market Data": {
+            "Current Price": 576.74,
+            "52-Week Range": "414.5 - 740.91",
+            "50-Day Average": 652.7126,
+            "200-Day Average": 576.02435
+        },
+        "Analyst Ratings & Stock Performance": {
+            "Target Price Range": "505.0 - 935.0",
+            "Mean Target Price": 765.0731,
+            "Median Target Price": 775.0,
+            "Analyst Recommendation": "1.49206 (<1 = Strong Buy, >5 = Strong Sell)"
+        },
+        "Risk Factors": {
+            "Overall Risk": 10
+        }
+    }
+}
